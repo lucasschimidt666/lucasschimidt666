@@ -1,10 +1,8 @@
-- 👋Ola, sou o Lucas Schimidt
-- 👀 Estou interessado em aprender
-- 🌱 Aprendendo 
-- 💞️ Colaboração 
-- QUERO FAZER O CURSO SOZINHO
+Boas vindas ao meu perfil :lucasschimidt666
 
-<!---
-lucasschimidt666/lucasschimidt666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Lucas Schimidt
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+Você pode entrar em contato comigo
